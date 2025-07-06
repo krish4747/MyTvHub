@@ -1,0 +1,10 @@
+{
+  "id": "com.krish.tvhub",
+  "version": "1.0.0",
+  "vendor": "Krish Prajapati",
+  "type": "web",
+  "main": "index.html",
+  "title": "TV Streaming Hub",
+  "icon": "icon.png",
+  "uiRevision": 2
+}
