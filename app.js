@@ -1,5 +1,5 @@
 const CONFIG_URL =
-  "https://raw.githubusercontent.com/krishprajapati/MyTvHub/main/sites.json";
+  "https://raw.githubusercontent.com/krish4747/MyTvHub/refs/heads/main/sites.json";
 
 async function loadSites() {
   try {
